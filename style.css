@@ -82,7 +82,9 @@ nav ul li a:hover{
 #namelogo span{
     color: #ffb600;
 }
-
+#dpmn{
+    display: none;
+}
 /* nav end */
 
 .header-text {
